@@ -26,10 +26,15 @@ In traditional learning methodologies, the content is taught linearly and all le
 
 In this learning process, students/teams are dynamically transitioned between different states. If a student has a good grasp of a topic, they may need more challenging exercises, in which case they will be moved to a state where they can hone their skills with tougher practice. Or, if a student is struggling with a concept or has not adequately remembered prerequisites, we can return them to a state that reinforces the prerequisites or provides simpler examples for better understanding.
 
+![image](https://user-images.githubusercontent.com/45296858/224487432-ad3700b7-001a-4df1-938c-82c2325c1d24.png)
+
+
 ## Usage of Kamva
 To date, nearly 15 courses or events have been held on the Kamva platform, attracting participation from over 7,000 students. These workshops can be conducted either with the presence of a teacher or independently, either as an individual or in a group setting.
 
 Some of the courses or events can be seen in the following image.
+
+![image](https://user-images.githubusercontent.com/45296858/224487476-1d4ba789-81a9-4bc5-a4cf-7c8cd010ea73.png)
 
 ## Platform Terminology
 We categorize the platform-related terms and definitions into three categories: Roles, Features, and Components.
@@ -47,13 +52,15 @@ Each account can have various roles, each with different permissions and access 
 ### Features
 Here are some of the key features of the platform:
  + **Interactive whiteboard**: Teams have access to a shared whiteboard where team members can see each other's drawings.
+![image](https://user-images.githubusercontent.com/45296858/224487528-abba4671-8036-4ba3-8a67-d2294f938f32.png)
  + **Mentor request**: When students encounter challenges or problems, they can buzz mentors by pressing the "Request for a mentor" button.
  + **Answer submission**: Students can submit answers to questions posed in courses/workshops, and mentors can grade their solutions.
  + **Team invitations**: Students can create teams and invite others to join. Invited students can accept or reject the invitation.
  + **Mini-Game Embedding**: Workshop heads/mentors can embed interactive mini-games into learning states, which can be simple javascript games.
  + **Group Jitsi room**: Teams have a Jitsi room for communication and consultation with mentors.
+![image](https://user-images.githubusercontent.com/45296858/224487551-956ca101-3ff8-4659-a8f5-1f685c8dc63e.png)
  + **Event Organizer Panel**: Event organizers have a panel for managing the event, where they can manage students, mentors, workshops, etc.
-
+![image](https://user-images.githubusercontent.com/45296858/224487565-d444e9f2-1ba7-4968-9772-20a7f7fb1a72.png)
 
 ### Components
 As we stated before, “Interactivity” is a key aspect of the platform, allowing mentors to incorporate various interactive elements into course states, including:
@@ -62,7 +69,10 @@ As we stated before, “Interactivity” is a key aspect of the platform, allowi
  + **Short answer question**
  + **Long answer question**
  + **Mini-game**: This is the most powerful component, and can be used for mini-games, graphs, charts, and other interactive web elements. It is a javascript component.
+
 You can check out this link for a list of mini-games we have developed and used in workshops.
+
+![image](https://user-images.githubusercontent.com/45296858/224487594-642d515e-6db1-45b6-b9b4-2c51d2b3ddde.png)
 
 ## Development and Technology Stack
  + The Kamva project utilized a wide range of frameworks and libraries, including:
