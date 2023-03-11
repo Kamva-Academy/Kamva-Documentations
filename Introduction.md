@@ -3,7 +3,7 @@ Interactive E-Learning Platform
 
 **Author:** M. Sadegh Salimi
 
-Kamva platform is developed by members of Rasta Educational NGO. So first of all we have an introduction on this NGO.
+[Kamva platform](https://kamva.academy/) is developed by members of Rasta Educational NGO. So first of all we have an introduction on this NGO.
 
 ## Rasta educational NGO
 The Rasta Educational NGO was founded in the summer of 2017 by a group of students from Sharif University of Technology, Isfahan University of Technology, and the University of Tehran with support from the Isfahan Mathematics House and Sharif University of Technology.
@@ -70,7 +70,7 @@ As we stated before, “Interactivity” is a key aspect of the platform, allowi
  + **Long answer question**
  + **Mini-game**: This is the most powerful component, and can be used for mini-games, graphs, charts, and other interactive web elements. It is a javascript component.
 
-You can check out this link for a list of mini-games we have developed and used in workshops.
+You can check out [this link](https://minigames.kamva.academy/) for a list of mini-games we have developed and used in workshops.
 
 ![image](https://user-images.githubusercontent.com/45296858/224487594-642d515e-6db1-45b6-b9b4-2c51d2b3ddde.png)
 
@@ -89,8 +89,8 @@ You can check out this link for a list of mini-games we have developed and used 
 
 ## Open source development
 Kamva is an open source project that allows anyone to contribute and suggest enhancements. There are two GitHub repositories associated with the project:
- + Backend of Kamva
- + FrontEnd of Kamva
+ + [Backend of Kamva](https://github.com/Rastaiha/Kamva-Backend)
+ + [FrontEnd of Kamva](https://github.com/Rastaiha/Kamva-Frontend)
 
 ## Future possible plans
 We are currently designing the Finite State Machine (FSM) of the course on our own, and mentors are responsible for transitioning students between states. However, in the future we could automate both course design and state changes by using Machine Learning algorithms, thus creating personalized FSMs for each student.
